@@ -1,0 +1,8 @@
+[commit]
+    gpgsign = true
+[user]
+    email = aliasgherbadshah128@gmail.com
+    name = aliasgher
+    signingkey = F7F847D7B1B76F3F76EB38F397DDF239C89FAF0B
+[gpg]
+    program = gpg
